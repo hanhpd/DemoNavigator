@@ -21,7 +21,7 @@ https://reactnative.dev/docs/environment-setup
 
 # cài đặt navigation
  https://reactnavigation.org/docs/getting-started
-## npm install @react-navigation/native
+ npm install @react-navigation/native  
 ## Installing dependencies into a bare React Native project
  npm install react-native-screens react-native-safe-area-context  
  
